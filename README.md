@@ -1,7 +1,4 @@
-### Ola eu sou Leonardo Schuquel
-
-  <p>Hoje estou estudando fornt-end<br>
-  E buscando trabalho na mesma área</p>
+###Leonardo Schuquel
   
 <div>
   <a href="http://github.com/LeonardoSchuquel">
